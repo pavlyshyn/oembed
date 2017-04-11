@@ -1,5 +1,5 @@
 {
-  "name": "simexis/oembed",
+  "name": "pavlyshyn/oembed",
   "description": "Laravel 5 - Retrieve page info using oembed, opengraph, etc.",
   "keywords": [
     "laravel",
@@ -16,8 +16,8 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "5.2.*",
-    "illuminate/cache": "5.2.*",
+    "illuminate/support": "5.*",
+    "illuminate/cache": "5.*",
     "simexis/embed": "1.*"
   },
   "autoload": {
